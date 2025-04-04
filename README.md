@@ -1,2 +1,47 @@
 # blackjack1
 This is a school project, so ye
+Blackjack Game 
+
+Introduksjon 
+
+Dette er et enkelt terminalbasert Blackjack-spill laget i Python. Spillet bruker en stokket kortstokk og følger de grunnleggende reglene for Blackjack, hvor spilleren konkurrerer mot en dealer for å få en håndverdi nærmest 21 uten å overstige den. 
+
+Regler 
+
+Ess (A) teller som 11. 
+
+Bildekort (J, Q, K) teller som 10. 
+
+Alle andre kort teller sin numeriske verdi. 
+
+Spilleren får to kort i starten og kan velge å trekke flere kort ("Hit") eller stoppe ("Stå"). 
+
+Dealeren må trekke kort til han har minst 17 poeng. 
+
+Den som kommer nærmest 21 uten å overstige det vinner. 
+
+Installasjon 
+
+For å kjøre spillet trenger du Python installert på din maskin. 
+
+Klon eller last ned prosjektet: 
+  
+
+Kjør skriptet: 
+
+BLACKJACK 
+  
+
+Hvordan spille 
+
+Når spillet starter, får både du og dealeren utdelt to kort. 
+
+Du kan velge å "H"(Hitte) (trekke et kort) eller "S"(Stå) (stoppe). 
+
+Hvis du går over 21, taper du automatisk. 
+
+Etter at du velger å "Stå", spiller dealeren sin hånd. 
+
+Spillet avgjør deretter hvem som vinner basert på kortverdiene. 
+
+Videre utvikling 
